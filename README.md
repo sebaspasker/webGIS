@@ -158,6 +158,3 @@ Aquí podemos ver una representación de cómo queda el mapa de calor, a continu
 ##### Resultados
 
 Como resultado obtenemos un sistema webGIS diseñado con Django y Mapbox, que tiene una variedad de funcionalidades. En el que se incluye dentro del mapa de enrutamiento: un sistema de identificación de embarcaciones, un sistema de búsqueda, un filtrador de capas y un menú de despliegue de información. Dentro del mapa de calor se incluye un sistema de reconocimiento de pesca marítima por zonas.
-
-Desde Deepfish2 creemos que aunque aún se limite a una demo, tiene un gran potencial si se aplica en un futuro como herramienta.
-12
